@@ -1,11 +1,15 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import Script from 'next/script'
 import './globals.css'
 
 export const metadata: Metadata = {
   title: '머니랩 | 재테크 금융 정보',
   description: '전세, 대출, 투자, 절세 등 돈이 되는 재테크 정보를 제공합니다.',
   keywords: '재테크, 금융, 부동산, 절세, 투자, 청약, 퇴직금, 실업급여',
+  verification: {
+    google: 'V5ZQ0q3FF9qcbvqRdXbBF4Dz5GYbdJ8PSPO15Qhr7xM',
+  },
   openGraph: {
     title: '머니랩 | 재테크 금융 정보',
     description: '전세, 대출, 투자, 절세 등 돈이 되는 재테크 정보를 제공합니다.',
@@ -54,6 +58,19 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </nav>
           </div>
         </header>
+
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-SFJV7GYF8R"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-SFJV7GYF8R');
+          `}
+        </Script>
 
         <main className="flex-1">{children}</main>
 
