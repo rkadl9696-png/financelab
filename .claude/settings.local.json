@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"c:\\\\financelab\\\\lib\" \"c:\\\\financelab\\\\app\\\\posts\\\\[slug]\" \"c:\\\\financelab\\\\app\\\\privacy\" \"c:\\\\financelab\\\\app\\\\terms\" \"c:\\\\financelab\\\\app\\\\about\")",
+      "Bash(npm run *)",
+      "Bash(Start-Process npm *)",
+      "Bash(Out-Null)",
+      "Bash(Start-Sleep -Seconds 4)",
+      "Bash(Invoke-WebRequest -Uri \"http://localhost:3000\" -UseBasicParsing -TimeoutSec 5)",
+      "Bash(Select-Object -ExpandProperty StatusCode)",
+      "PowerShell(Start-Process npm -ArgumentList \"run\",\"dev\" -WorkingDirectory \"c:\\\\financelab\" -NoNewWindow; Start-Sleep -Seconds 5; try { \\(Invoke-WebRequest -Uri \"http://localhost:3000\" -UseBasicParsing -TimeoutSec 5\\).StatusCode } catch { \"서버 응답 없음: $_\" })"
+    ],
+    "additionalDirectories": [
+      "c:\\financelab\\app\\posts"
+    ]
+  }
+}
