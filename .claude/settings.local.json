@@ -8,7 +8,9 @@
       "Bash(Start-Sleep -Seconds 4)",
       "Bash(Invoke-WebRequest -Uri \"http://localhost:3000\" -UseBasicParsing -TimeoutSec 5)",
       "Bash(Select-Object -ExpandProperty StatusCode)",
-      "PowerShell(Start-Process npm -ArgumentList \"run\",\"dev\" -WorkingDirectory \"c:\\\\financelab\" -NoNewWindow; Start-Sleep -Seconds 5; try { \\(Invoke-WebRequest -Uri \"http://localhost:3000\" -UseBasicParsing -TimeoutSec 5\\).StatusCode } catch { \"서버 응답 없음: $_\" })"
+      "PowerShell(Start-Process npm -ArgumentList \"run\",\"dev\" -WorkingDirectory \"c:\\\\financelab\" -NoNewWindow; Start-Sleep -Seconds 5; try { \\(Invoke-WebRequest -Uri \"http://localhost:3000\" -UseBasicParsing -TimeoutSec 5\\).StatusCode } catch { \"서버 응답 없음: $_\" })",
+      "Bash(Select-String -Path \"c:\\\\financelab\\\\lib\\\\posts.ts\" -Pattern \"^]\")",
+      "Bash(Select-Object -Last 3)"
     ],
     "additionalDirectories": [
       "c:\\financelab\\app\\posts"
