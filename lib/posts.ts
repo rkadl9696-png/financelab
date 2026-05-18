@@ -1580,7 +1580,7 @@ export const posts: Post[] = [
     slug: 'overseas-stock-capital-gains-tax-guide',
     title: '해외주식 양도소득세 신고 완벽 가이드',
     category: '세금',
-    date: '2026-05-19',
+    date: '2026-05-18',
     excerpt: '미국 주식으로 수익이 났다면 5월에 반드시 신고해야 합니다. 양도소득세 계산법, 손익통산, 절세 전략을 총정리했습니다.',
     relatedSlugs: ['금융소득종합과세-완벽-가이드', 'financial-income-comprehensive-tax-guide', 'etf-investment-beginner-guide'],
     content: `
@@ -1634,7 +1634,7 @@ export const posts: Post[] = [
     slug: 'side-income-tax-filing-guide',
     title: '부업 소득 세금 신고 가이드 — 유튜브·블로그·쿠팡파트너스',
     category: '세금',
-    date: '2026-05-20',
+    date: '2026-05-18',
     excerpt: '부업 수입도 세금을 내야 합니다. 유튜브 애드센스·블로그·쿠팡파트너스 등 플랫폼별 세금 신고법과 절세 전략을 정리했습니다.',
     relatedSlugs: ['freelancer-tax-filing-guide', '종합소득세-신고-완벽-가이드', 'maximize-year-end-tax-refund'],
     content: `
@@ -1682,7 +1682,7 @@ export const posts: Post[] = [
     slug: '2026-minimum-wage-take-home-pay',
     title: '2026년 최저임금과 실수령액 완벽 계산 가이드',
     category: '금융기초',
-    date: '2026-05-21',
+    date: '2026-05-18',
     excerpt: '2026년 최저시급 10,030원 기준 월급과 실수령액을 계산했습니다. 4대 보험·세금 공제 구조를 한눈에 파악하세요.',
     relatedSlugs: ['연봉별-실수령액-완벽-가이드', '퇴직금-계산법-및-절세-전략', 'reduce-health-insurance-premium'],
     content: `
@@ -1741,7 +1741,7 @@ export const posts: Post[] = [
     slug: '2026-inheritance-tax-reform',
     title: '2026년 상속세 개편 완벽 정리 — 달라진 공제와 세율',
     category: '세금',
-    date: '2026-05-22',
+    date: '2026-05-18',
     excerpt: '2026년 상속세법이 개편됐습니다. 기초공제·자녀공제 확대와 최고세율 인하 내용을 정리하고 실제 절세 전략을 안내합니다.',
     relatedSlugs: ['증여세-절세-완벽-가이드', '2026년-달라진-부동산-세금-정리', '2026-property-acquisition-tax-guide'],
     content: `
@@ -1802,7 +1802,7 @@ export const posts: Post[] = [
     slug: 'real-estate-rental-business-registration',
     title: '부동산 임대사업자 등록 장단점 완벽 분석 2026',
     category: '부동산',
-    date: '2026-05-23',
+    date: '2026-05-18',
     excerpt: '임대사업자 등록 시 세금 혜택과 의무 임대 기간 규제를 꼼꼼히 비교했습니다. 2026년 기준 등록·미등록 유불리를 정리합니다.',
     relatedSlugs: ['2026년-달라진-부동산-세금-정리', '2026-real-estate-market-outlook', '2026-property-acquisition-tax-guide'],
     content: `
@@ -1855,7 +1855,7 @@ export const posts: Post[] = [
     slug: 'credit-score-improvement-guide',
     title: '신용점수 올리는 방법 총정리 — 단기·장기 전략',
     category: '금융기초',
-    date: '2026-05-24',
+    date: '2026-05-18',
     excerpt: '신용점수가 낮으면 대출 금리가 높아지고 한도가 줄어듭니다. 단기간에 점수를 올리는 방법과 장기 관리 전략을 정리했습니다.',
     relatedSlugs: ['loan-interest-rate-comparison-guide', 'reduce-health-insurance-premium', '2026-minimum-wage-take-home-pay'],
     content: `
@@ -1919,7 +1919,7 @@ export const posts: Post[] = [
     slug: 'youth-housing-dream-subscription-guide',
     title: '청년 주택드림청약 완벽 가이드 2026',
     category: '부동산',
-    date: '2026-05-25',
+    date: '2026-05-18',
     excerpt: '청년 전용 주택드림청약통장의 금리·세제 혜택·청약 연계까지. 일반 청약통장과 무엇이 다른지 비교 정리했습니다.',
     relatedSlugs: ['청약-가점-높이는-방법', 'housing-subscription-savings-guide', 'newlywed-housing-subscription-guide'],
     content: `
@@ -1980,7 +1980,7 @@ export const posts: Post[] = [
     slug: 'self-employed-tax-saving-guide',
     title: '개인사업자 절세 방법 총정리 2026',
     category: '세금',
-    date: '2026-05-26',
+    date: '2026-05-18',
     excerpt: '개인사업자가 합법적으로 세금을 줄이는 핵심 전략. 경비 처리부터 노란우산공제·IRP·법인 전환까지 총정리했습니다.',
     relatedSlugs: ['freelancer-tax-filing-guide', 'irp-account-tax-saving-guide', 'income-deduction-vs-tax-credit'],
     content: `
@@ -2029,7 +2029,7 @@ export const posts: Post[] = [
     slug: 'housing-pension-application-guide',
     title: '주택연금 신청 방법과 수령액 계산 완벽 가이드',
     category: '금융기초',
-    date: '2026-05-27',
+    date: '2026-05-18',
     excerpt: '내 집에 살면서 매달 연금을 받는 주택연금. 신청 자격, 수령액 계산법, 장단점까지 한눈에 정리했습니다.',
     relatedSlugs: ['national-pension-benefit-calculation', '퇴직금-계산법-및-절세-전략', 'reduce-health-insurance-premium'],
     content: `
@@ -2087,7 +2087,7 @@ export const posts: Post[] = [
     slug: 'dollar-investment-guide',
     title: '달러 투자 방법 완벽 가이드 — 환율 리스크 관리까지',
     category: '재테크',
-    date: '2026-05-28',
+    date: '2026-05-18',
     excerpt: '달러 투자는 환율 방어와 글로벌 자산 배분의 핵심 수단입니다. 달러 예금·RP·ETF·채권까지 방법별 특징과 세금을 정리했습니다.',
     relatedSlugs: ['etf-investment-beginner-guide', 'overseas-etf-tax-guide', '재테크-포트폴리오-구성법'],
     content: `
@@ -2137,7 +2137,7 @@ export const posts: Post[] = [
     slug: 'gold-investment-tax-guide',
     title: '금 투자 방법과 세금 총정리 — 실물·ETF·통장 비교',
     category: '재테크',
-    date: '2026-05-29',
+    date: '2026-05-18',
     excerpt: '인플레이션 헤지 수단으로 주목받는 금 투자. 실물금·금 ETF·금 통장·KRX 금시장까지 방법별 특징과 세금을 비교했습니다.',
     relatedSlugs: ['etf-investment-beginner-guide', 'dollar-investment-guide', 'overseas-etf-tax-guide'],
     content: `
@@ -2185,7 +2185,7 @@ export const posts: Post[] = [
     slug: 'p2p-investment-risk-analysis',
     title: 'P2P 투자 위험성과 수익률 분석 — 투자 전 필독',
     category: '재테크',
-    date: '2026-05-30',
+    date: '2026-05-18',
     excerpt: '연 10~15% 고수익을 내세우는 P2P 투자. 실제 연체율·원금 손실 위험과 안전하게 투자하는 방법을 분석했습니다.',
     relatedSlugs: ['재테크-포트폴리오-구성법', 'etf-investment-beginner-guide', 'financial-income-comprehensive-tax-guide'],
     content: `
@@ -2232,7 +2232,7 @@ export const posts: Post[] = [
     slug: 'real-estate-auction-beginner-guide',
     title: '부동산 경매 투자 초보 가이드 — 절차부터 낙찰까지',
     category: '부동산',
-    date: '2026-05-31',
+    date: '2026-05-18',
     excerpt: '시세보다 저렴하게 부동산을 살 수 있는 경매. 입찰 절차, 권리분석, 명도까지 초보자도 이해할 수 있게 정리했습니다.',
     relatedSlugs: ['2026-real-estate-market-outlook', 'jeonse-fraud-prevention-guide', '2026-property-acquisition-tax-guide'],
     content: `
@@ -2288,7 +2288,7 @@ export const posts: Post[] = [
     slug: 'jeonse-fraud-prevention-guide',
     title: '전세사기 예방 방법 완벽 가이드 2026',
     category: '부동산',
-    date: '2026-06-01',
+    date: '2026-05-18',
     excerpt: '전세사기 피해를 막는 가장 확실한 방법. 계약 전 필수 확인 사항과 전입신고·확정일자·전세보증보험 가입 요령을 총정리했습니다.',
     relatedSlugs: ['전세-vs-월세-완벽-비교-가이드', 'reverse-jeonse-handling-guide', 'jeonwolse-conversion-rate-guide'],
     content: `
@@ -2346,7 +2346,7 @@ export const posts: Post[] = [
     slug: 'reverse-jeonse-handling-guide',
     title: '역전세 대처 방법 총정리 — 보증금 돌려받는 전략',
     category: '부동산',
-    date: '2026-06-02',
+    date: '2026-05-18',
     excerpt: '전세가가 떨어져 집주인이 보증금을 돌려주지 못하는 역전세. 임차인이 취할 수 있는 법적 대응과 협상 전략을 정리했습니다.',
     relatedSlugs: ['전세-vs-월세-완벽-비교-가이드', 'jeonse-fraud-prevention-guide', 'jeonwolse-conversion-rate-guide'],
     content: `
@@ -2392,7 +2392,7 @@ export const posts: Post[] = [
     slug: 'small-business-subsidy-guide-2026',
     title: '소상공인 지원금 신청 방법 2026 — 종류별 총정리',
     category: '금융기초',
-    date: '2026-06-03',
+    date: '2026-05-18',
     excerpt: '2026년 소상공인을 위한 정부 지원금·대출·보증 제도를 총정리했습니다. 신청 방법과 조건을 한눈에 확인하세요.',
     relatedSlugs: ['self-employed-tax-saving-guide', 'freelancer-tax-filing-guide', 'reduce-health-insurance-premium'],
     content: `
@@ -2445,7 +2445,7 @@ export const posts: Post[] = [
     slug: 'youth-support-benefits-guide-2026',
     title: '청년 지원금 총정리 2026 — 내가 받을 수 있는 혜택 한눈에',
     category: '금융기초',
-    date: '2026-06-04',
+    date: '2026-05-18',
     excerpt: '청년내일저축계좌·청년도약계좌·월세지원·취업지원금까지. 2026년 청년이 신청 가능한 지원 제도를 모두 모았습니다.',
     relatedSlugs: ['youth-housing-dream-subscription-guide', 'monthly-rent-tax-credit-guide', 'isa-account-complete-guide-2026'],
     content: `
@@ -2502,7 +2502,7 @@ export const posts: Post[] = [
     slug: 'health-insurance-dependent-registration',
     title: '건강보험 피부양자 등록 방법 완벽 가이드',
     category: '금융기초',
-    date: '2026-06-05',
+    date: '2026-05-18',
     excerpt: '피부양자로 등록되면 건강보험료를 내지 않아도 됩니다. 자격 요건, 신청 방법, 탈락 기준까지 한번에 정리했습니다.',
     relatedSlugs: ['reduce-health-insurance-premium', 'national-pension-benefit-calculation', '2026-minimum-wage-take-home-pay'],
     content: `
@@ -2557,7 +2557,7 @@ export const posts: Post[] = [
     slug: 'actual-loss-insurance-claim-guide',
     title: '실손보험 청구 방법 완벽 가이드 — 놓치지 않고 받는 법',
     category: '금융기초',
-    date: '2026-06-06',
+    date: '2026-05-18',
     excerpt: '실손보험 청구, 어렵게 생각하지 마세요. 청구 절차, 필요 서류, 청구 가능 항목과 주의사항을 한눈에 정리했습니다.',
     relatedSlugs: ['reduce-health-insurance-premium', 'health-insurance-dependent-registration', 'maximize-year-end-tax-refund'],
     content: `
@@ -2612,7 +2612,7 @@ export const posts: Post[] = [
     slug: 'pension-savings-vs-irp-comparison',
     title: '연금저축 vs IRP 어떤게 유리할까 — 완벽 비교 가이드',
     category: '세금',
-    date: '2026-06-07',
+    date: '2026-05-18',
     excerpt: '노후 준비와 세금 절감을 동시에. 연금저축과 IRP의 차이점, 장단점, 최적 조합 전략을 비교 정리했습니다.',
     relatedSlugs: ['irp-account-tax-saving-guide', 'isa-account-complete-guide-2026', 'income-deduction-vs-tax-credit'],
     content: `
@@ -2663,7 +2663,7 @@ export const posts: Post[] = [
     slug: 'stock-dividend-tax-guide',
     title: '주식 배당금 세금 완벽 정리 — 국내·해외 주식 비교',
     category: '세금',
-    date: '2026-06-08',
+    date: '2026-05-18',
     excerpt: '배당금에도 세금이 붙습니다. 국내·해외 주식 배당소득세율, 금융소득종합과세 기준, ISA·IRP 절세 전략을 정리했습니다.',
     relatedSlugs: ['financial-income-comprehensive-tax-guide', 'overseas-etf-tax-guide', 'isa-account-complete-guide-2026'],
     content: `
@@ -2710,7 +2710,7 @@ export const posts: Post[] = [
     slug: 'overseas-etf-tax-guide',
     title: '해외ETF 투자 세금 총정리 — 국내상장 vs 직구 비교',
     category: '세금',
-    date: '2026-06-09',
+    date: '2026-05-18',
     excerpt: '해외ETF 투자 시 세금이 복잡합니다. 국내 상장 해외ETF와 해외 직접 투자 ETF의 세금 차이와 절세 전략을 정리했습니다.',
     relatedSlugs: ['etf-investment-beginner-guide', 'overseas-stock-capital-gains-tax-guide', 'financial-income-comprehensive-tax-guide'],
     content: `
@@ -2760,7 +2760,7 @@ export const posts: Post[] = [
     slug: '2026-property-acquisition-tax-guide',
     title: '2026년 부동산 취득세 완벽 정리 — 주택 수별 세율표',
     category: '세금',
-    date: '2026-06-10',
+    date: '2026-05-18',
     excerpt: '주택 구매 시 반드시 알아야 할 취득세. 1주택·2주택·3주택 이상 세율, 감면 요건, 납부 기한까지 2026년 기준으로 정리했습니다.',
     relatedSlugs: ['2026년-달라진-부동산-세금-정리', 'property-tax-payment-guide', 'car-acquisition-tax-calculation'],
     content: `
@@ -2821,7 +2821,7 @@ export const posts: Post[] = [
     slug: 'comprehensive-real-estate-tax-saving-guide',
     title: '종합부동산세 절세 방법 완벽 가이드 2026',
     category: '세금',
-    date: '2026-06-11',
+    date: '2026-05-18',
     excerpt: '공시가격 합산 기준 초과 시 부과되는 종부세. 1세대 1주택 특례, 합산배제, 장기보유 공제까지 절세 전략을 총정리했습니다.',
     relatedSlugs: ['2026년-달라진-부동산-세금-정리', 'property-tax-payment-guide', 'real-estate-gift-vs-inheritance-guide'],
     content: `
@@ -2876,7 +2876,7 @@ export const posts: Post[] = [
     slug: 'car-tax-annual-payment-discount-guide',
     title: '자동차세 연납 할인 받는 방법 — 최대 5% 절약',
     category: '세금',
-    date: '2026-06-12',
+    date: '2026-05-18',
     excerpt: '자동차세를 1월에 한 번에 내면 최대 5% 할인을 받습니다. 연납 신청 방법과 납부 기한, 계산 방법을 정리했습니다.',
     relatedSlugs: ['car-acquisition-tax-calculation', 'property-tax-payment-guide', 'income-deduction-items-guide-2026'],
     content: `
@@ -2931,7 +2931,7 @@ export const posts: Post[] = [
     slug: 'wedding-cost-saving-guide',
     title: '결혼 준비 비용 절약 방법 총정리 — 스드메부터 신혼여행까지',
     category: '금융기초',
-    date: '2026-06-13',
+    date: '2026-05-18',
     excerpt: '결혼 평균 비용 3,000만~5,000만 원. 스튜디오·드레스·메이크업·예식장·신혼여행까지 항목별 절약 전략을 정리했습니다.',
     relatedSlugs: ['newlywed-loan-guide', 'newlywed-housing-subscription-guide', 'maximize-year-end-tax-refund'],
     content: `
@@ -2984,7 +2984,7 @@ export const posts: Post[] = [
     slug: 'newlywed-loan-guide',
     title: '신혼부부 대출 종류와 조건 총정리 2026',
     category: '금융기초',
-    date: '2026-06-14',
+    date: '2026-05-18',
     excerpt: '신혼부부를 위한 정책 대출부터 전세·생활자금까지. 디딤돌·버팀목·신생아 특례대출 조건과 금리를 한눈에 비교했습니다.',
     relatedSlugs: ['loan-interest-rate-comparison-guide', 'newlywed-housing-subscription-guide', 'wedding-cost-saving-guide'],
     content: `
@@ -3041,7 +3041,7 @@ export const posts: Post[] = [
     slug: 'parental-leave-benefit-maximize-guide',
     title: '육아휴직 급여 최대로 받는 방법 2026',
     category: '금융기초',
-    date: '2026-06-15',
+    date: '2026-05-18',
     excerpt: '2024년 대폭 인상된 육아휴직 급여. 부모 모두 사용 시 최대 월 450만 원까지 받을 수 있습니다. 조건과 신청 방법을 정리했습니다.',
     relatedSlugs: ['child-education-tax-saving-guide', 'reduce-health-insurance-premium', 'newlywed-loan-guide'],
     content: `
@@ -3095,7 +3095,7 @@ export const posts: Post[] = [
     slug: 'child-education-tax-saving-guide',
     title: '아이 교육비 절세 방법 총정리 — 세액공제부터 비과세까지',
     category: '세금',
-    date: '2026-06-16',
+    date: '2026-05-18',
     excerpt: '자녀 교육비도 세금을 돌려받을 수 있습니다. 교육비 세액공제 항목, 한도, 교육비 비과세 급여 활용법까지 총정리했습니다.',
     relatedSlugs: ['maximize-year-end-tax-refund', 'parental-leave-benefit-maximize-guide', 'income-deduction-items-guide-2026'],
     content: `
@@ -3150,7 +3150,7 @@ export const posts: Post[] = [
     slug: 'retirement-preparation-guide-2026',
     title: '노후 준비 완벽 가이드 2026 — 언제부터 얼마나 모아야 할까',
     category: '재테크',
-    date: '2026-06-17',
+    date: '2026-05-18',
     excerpt: '노후 생활비 계산부터 국민연금·IRP·ISA 조합까지. 2026년 기준으로 현실적인 노후 준비 로드맵을 정리했습니다.',
     relatedSlugs: ['national-pension-benefit-calculation', 'irp-account-tax-saving-guide', 'housing-pension-application-guide'],
     content: `
@@ -3199,7 +3199,7 @@ export const posts: Post[] = [
     slug: 'private-pension-vs-national-pension',
     title: '개인연금 vs 국민연금 비교 분석 — 무엇을 더 믿어야 할까',
     category: '재테크',
-    date: '2026-06-18',
+    date: '2026-05-18',
     excerpt: '노후를 책임질 두 축, 국민연금과 개인연금. 수익률·안정성·수령 방식 차이를 비교하고 최적 조합 전략을 제시합니다.',
     relatedSlugs: ['retirement-preparation-guide-2026', 'irp-account-tax-saving-guide', 'national-pension-benefit-calculation'],
     content: `
@@ -3252,7 +3252,7 @@ export const posts: Post[] = [
     slug: 'emergency-fund-guide',
     title: '비상금 얼마나 모아야 할까 — 적정 규모와 보관 방법',
     category: '재테크',
-    date: '2026-06-19',
+    date: '2026-05-18',
     excerpt: '갑작스러운 실직·의료비·사고에 대비하는 비상금. 적정 금액, 보관 방법, 비상금 이후 재테크 순서를 정리했습니다.',
     relatedSlugs: ['retirement-preparation-guide-2026', 'reduce-health-insurance-premium', 'beginner-investment-start-guide'],
     content: `
@@ -3304,7 +3304,7 @@ export const posts: Post[] = [
     slug: 'travel-cost-saving-guide',
     title: '여행 경비 절약 방법 총정리 — 항공·숙박·현지 비용까지',
     category: '재테크',
-    date: '2026-06-20',
+    date: '2026-05-18',
     excerpt: '같은 여행도 전략에 따라 비용이 반으로 줄 수 있습니다. 항공권·숙소·환전·여행 카드까지 실속 절약 팁을 정리했습니다.',
     relatedSlugs: ['dollar-investment-guide', 'credit-card-vs-check-card-tax-strategy', 'beginner-investment-start-guide'],
     content: `
@@ -3360,7 +3360,7 @@ export const posts: Post[] = [
     slug: 'credit-card-vs-check-card-tax-strategy',
     title: '신용카드 vs 체크카드 절세 전략 — 연말정산 최적 조합',
     category: '세금',
-    date: '2026-06-21',
+    date: '2026-05-18',
     excerpt: '신용카드와 체크카드의 소득공제율이 다릅니다. 연말정산에서 환급을 최대로 받기 위한 최적 사용 전략을 정리했습니다.',
     relatedSlugs: ['maximize-year-end-tax-refund', 'income-deduction-vs-tax-credit', 'income-deduction-items-guide-2026'],
     content: `
@@ -3413,7 +3413,7 @@ export const posts: Post[] = [
     slug: 'overseas-direct-purchase-customs-guide',
     title: '해외직구 관세 계산 방법 — 면세 기준과 절세 팁',
     category: '금융기초',
-    date: '2026-06-22',
+    date: '2026-05-18',
     excerpt: '해외직구 시 관세가 언제 붙는지 아시나요? 면세 기준 150달러, 관세율 계산법, 목록통관 활용법까지 정리했습니다.',
     relatedSlugs: ['travel-cost-saving-guide', 'credit-card-vs-check-card-tax-strategy', 'dollar-investment-guide'],
     content: `
@@ -3478,7 +3478,7 @@ export const posts: Post[] = [
     slug: 'used-car-purchase-guide',
     title: '중고차 구매 시 주의사항 총정리 — 사기 예방부터 가격 협상까지',
     category: '금융기초',
-    date: '2026-06-23',
+    date: '2026-05-18',
     excerpt: '중고차 구매는 정보가 전부입니다. 침수차·사고차 확인 방법, 성능점검 기록부 보는 법, 가격 협상 전략까지 정리했습니다.',
     relatedSlugs: ['car-acquisition-tax-calculation', 'car-tax-annual-payment-discount-guide', 'ev-subsidy-guide-2026'],
     content: `
@@ -3533,7 +3533,7 @@ export const posts: Post[] = [
     slug: 'ev-subsidy-guide-2026',
     title: '전기차 구매 보조금 받는 방법 2026 — 국비+지방비 총정리',
     category: '재테크',
-    date: '2026-06-24',
+    date: '2026-05-18',
     excerpt: '2026년 전기차 보조금 최대 얼마까지 받을 수 있을까요? 국비보조금·지자체보조금·세금 감면까지 신청 방법을 총정리했습니다.',
     relatedSlugs: ['car-acquisition-tax-calculation', 'car-tax-annual-payment-discount-guide', 'used-car-purchase-guide'],
     content: `
@@ -3588,7 +3588,7 @@ export const posts: Post[] = [
     slug: 'solar-power-income-tax-guide',
     title: '태양광 발전 수익과 세금 총정리 — 수익은 얼마, 세금은 어떻게',
     category: '세금',
-    date: '2026-06-25',
+    date: '2026-05-18',
     excerpt: '베란다·지붕 태양광으로 전기세 절약과 수익 창출이 가능합니다. 발전 수익 계산법, 사업소득 신고, 세금 처리까지 정리했습니다.',
     relatedSlugs: ['side-income-tax-filing-guide', 'freelancer-tax-filing-guide', 'rental-income-tax-filing-guide'],
     content: `
@@ -3637,7 +3637,7 @@ export const posts: Post[] = [
     slug: 'real-estate-gift-vs-inheritance-guide',
     title: '부동산 증여 vs 상속 어떤게 유리할까 — 세금 비교 완벽 가이드',
     category: '세금',
-    date: '2026-06-26',
+    date: '2026-05-18',
     excerpt: '부동산을 자녀에게 넘길 때 증여와 상속 중 어느 쪽이 세금을 더 아낄 수 있을까요? 상황별 유불리 비교와 전략을 정리했습니다.',
     relatedSlugs: ['증여세-절세-완벽-가이드', '2026-inheritance-tax-reform', 'comprehensive-real-estate-tax-saving-guide'],
     content: `
@@ -3690,7 +3690,7 @@ export const posts: Post[] = [
     slug: 'rental-income-tax-filing-guide',
     title: '임대소득세 신고 방법 완벽 가이드 2026',
     category: '세금',
-    date: '2026-06-27',
+    date: '2026-05-18',
     excerpt: '주택 임대 수입이 있다면 세금 신고 의무가 있습니다. 임대소득 과세 기준, 분리과세 vs 종합과세 선택법, 신고 절차를 정리했습니다.',
     relatedSlugs: ['real-estate-rental-business-registration', 'side-income-tax-filing-guide', 'freelancer-tax-filing-guide'],
     content: `
@@ -3747,7 +3747,7 @@ export const posts: Post[] = [
     slug: 'income-deduction-items-guide-2026',
     title: '소득공제 항목 총정리 2026 — 빠짐없이 챙기는 체크리스트',
     category: '세금',
-    date: '2026-06-28',
+    date: '2026-05-18',
     excerpt: '2026년 연말정산에서 놓치기 쉬운 소득공제 항목을 전부 모았습니다. 인적공제부터 주택·카드·보험까지 체크리스트로 정리했습니다.',
     relatedSlugs: ['maximize-year-end-tax-refund', 'income-deduction-vs-tax-credit', 'year-end-tax-preparation-guide'],
     content: `
@@ -3807,7 +3807,7 @@ export const posts: Post[] = [
     slug: 'year-end-tax-preparation-guide',
     title: '연말정산 미리 준비하는 방법 — 1월부터 12월까지 달력 전략',
     category: '세금',
-    date: '2026-06-29',
+    date: '2026-05-18',
     excerpt: '연말정산은 12월에 준비하면 늦습니다. 월별로 해야 할 일과 연간 절세 플랜을 달력 형식으로 정리했습니다.',
     relatedSlugs: ['maximize-year-end-tax-refund', 'income-deduction-items-guide-2026', 'irp-account-tax-saving-guide'],
     content: `
@@ -3862,7 +3862,7 @@ export const posts: Post[] = [
     slug: 'beginner-investment-start-guide',
     title: '재테크 초보를 위한 시작 가이드 — 0원에서 시작하는 돈 관리',
     category: '재테크',
-    date: '2026-06-30',
+    date: '2026-05-18',
     excerpt: '재테크가 처음이라면? 통장 쪼개기부터 비상금, 첫 ETF 투자까지. 초보자도 바로 실천할 수 있는 단계별 가이드입니다.',
     relatedSlugs: ['emergency-fund-guide', 'etf-investment-beginner-guide', 'isa-account-complete-guide-2026'],
     content: `
