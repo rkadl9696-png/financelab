@@ -13,7 +13,8 @@
       "Bash(Select-Object -Last 3)",
       "PowerShell(\\(Get-Content \"c:\\\\financelab\\\\lib\\\\posts.ts\" -Raw\\) -replace \"date: '2026-06-\\\\d{2}'\", \"date: '2026-05-18'\" -replace \"date: '2026-05-\\(19|20|21|22|23|24|25|26|27|28|29|30|31\\)'\", \"date: '2026-05-18'\" | Set-Content \"c:\\\\financelab\\\\lib\\\\posts.ts\" -Encoding utf8)",
       "Bash(git checkout *)",
-      "Bash(node -e ' *)"
+      "Bash(node -e ' *)",
+      "Bash(node c:/financelab/scripts/insert-posts.js)"
     ],
     "additionalDirectories": [
       "c:\\financelab\\app\\posts"
